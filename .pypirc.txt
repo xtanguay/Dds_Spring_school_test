@@ -1,0 +1,12 @@
+[distutils]
+  index-servers =
+    testpypi
+    bw_test
+
+[testpypi]
+  username = __token__
+  password = pypi-AgENdGVzdC5weXBpLm9yZwIkYmQ4Y2MxOTktYTkyNC00ZTkxLThiZGEtY2Y2MDg2ODA5YTQ1AAIqWzMsImY1MTFiNGJjLThmODctNGViYS1hMGFjLTFmMTFhMDZjOTc0MCJdAAAGIMp1PUoUxWVLa1dEJanjXXaz3QxjIEdizP46TXHnjiTu
+[bw_test]
+  repository = https://test.pypi.org/legacy/
+  username = __token__
+  password = pypi-AgENdGVzdC5weXBpLm9yZwIkYmQ4Y2MxOTktYTkyNC00ZTkxLThiZGEtY2Y2MDg2ODA5YTQ1AAIqWzMsImY1MTFiNGJjLThmODctNGViYS1hMGFjLTFmMTFhMDZjOTc0MCJdAAAGIMp1PUoUxWVLa1dEJanjXXaz3QxjIEdizP46TXHnjiTu
